@@ -1,0 +1,1 @@
+ALTER TABLE `photo-album_user` ADD `hashed_password` text(255);
